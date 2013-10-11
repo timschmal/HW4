@@ -1,0 +1,8 @@
+C:\Users\Tim\Desktop\HW4\HW4\HW4\bin\HW4.dll
+C:\Users\Tim\Desktop\HW4\HW4\HW4\bin\HW4.pdb
+C:\Users\Tim\Desktop\HW4\HW4\HW4\bin\HW4.xml
+C:\Users\Tim\Desktop\HW4\HW4\HW4\obj\Debug\HW4.Resources.resources
+C:\Users\Tim\Desktop\HW4\HW4\HW4\obj\Debug\HW4.vbproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\HW4\HW4\HW4\obj\Debug\HW4.dll
+C:\Users\Tim\Desktop\HW4\HW4\HW4\obj\Debug\HW4.xml
+C:\Users\Tim\Desktop\HW4\HW4\HW4\obj\Debug\HW4.pdb
