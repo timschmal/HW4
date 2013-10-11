@@ -22,7 +22,7 @@
         <br />
         <br />
         <br />
-        Net Pay:<asp:Label ID="lbNetPay" runat="server" BorderStyle="Inset" style="margin-left: 185px" Text="Label" Width="118px"></asp:Label>
+        Net Pay:<asp:Label ID="lbNetPay" runat="server" BorderStyle="Inset" Height="19px" style="margin-left: 185px" Width="118px"></asp:Label>
         <br />
         <br />
         <asp:Button ID="Button1" runat="server" style="margin-left: 33px" Text="Calculate" />
